@@ -1,2 +1,2 @@
-# hardware
-These are the PCB files, plastic and busbar CAD files, Specification sheets and all technical drawings needed to make DKblocks
+# Pack Supervisor hardware
+These are the PCB files, CAD files, specification sheets and all technical drawings needed to make the DKblock Pack Supervisor board. Note that the BOM and other technical documents are provided in OpenOffice format, PCB files are in EAGLE format.
