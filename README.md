@@ -4,7 +4,7 @@ These are the printed circuit board (PCB) files, CAD files, specification sheets
 
 #### Two Versions Are Provided Rev A and Rev B
 - Rev A - Revision A (retired name of board is Supervisor LV Rev A)  is a fully tested board, put into  production on a 72VDC electric scooter named Fido, and a 150VDC VW bug conversion.
-- Rev B - Revision B are design files that make improvements on the A version, and change the board name to Pack Supervisor 97x127mm Rev B,  but the board has neither not been built nor tested in the real world. Note that most of the changes are minor and are simple tweaks to improve performance or reliability.
+- Rev B - Revision B are design files that make improvements on the A version, and change the board name to Pack Supervisor 97x127mm Rev B, but *Rev B has neither not been built nor tested in the real world*. Note that most of the changes are minor and are simple tweaks to improve performance or reliability.
 
 
 ![Pack Supervisor Features](Images/Pack_Supervisor_Features.png)
