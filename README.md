@@ -16,5 +16,5 @@ These are the printed circuit board (PCB) files, CAD files, specification sheets
 ![Pack Supervisor Schematic 1](Images/Pack_Supervisor_97x127mm_Rev_B_schematic_Page_2.png)
 
 
-![Open Hrdware](Images/osha-logo-200-px.png)
+![Open Hardware](Images/oshw-logo-200-px.png)
 All DKblock software and hardware is released as open source hardware (OSHW) as defined by the OSHWA: https://www.oshwa.org/definition/ and under the JSON license fully defined in the Wiki.
