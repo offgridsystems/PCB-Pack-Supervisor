@@ -7,7 +7,7 @@ These are the printed circuit board (PCB) files, CAD files, specification sheets
 - Rev B - Revision B are design files that make improvements on the A version, and change the board name to Pack Supervisor 97x127mm Rev B, but *Rev B has neither not been built nor tested in the real world*. Note that most of the changes are minor and are simple tweaks to improve performance or reliability.
 
 
-![Pack Supervisor Features](Images/Pack_Supervisor_Features.png)
+
 
 ![Pack Supervisor Top RevA](Images/Pack_Supervisor_Top_RevA.png)
 
