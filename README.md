@@ -19,6 +19,7 @@ These are the printed circuit board (PCB) files, CAD files, specification sheets
 
 New V2 radio (replaces RF24 board and requires new Supervisor V2 firmware)
 ![image](https://user-images.githubusercontent.com/6006120/112710732-ae876900-8e80-11eb-93dd-76fa7d988fb5.png)
+![20210330_173753](https://user-images.githubusercontent.com/6006120/113607806-84f7db80-95fe-11eb-9fc5-c0902d095cbd.jpg)
 
 
 ![Open Hardware](Images/oshw-logo-200-px.png)
